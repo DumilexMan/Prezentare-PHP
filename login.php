@@ -34,7 +34,7 @@ else
     }
     else
     {
-        echo "Nume invalid";
+        echo "Nume sau parola invalida";
     }
 
 
