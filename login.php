@@ -1,5 +1,5 @@
 <?php
-
+print_r($_POST);
 $Nume = $_POST['Nume'];
 $Parola = $_POST['Parola'];
 
