@@ -3,8 +3,8 @@
 $Nume = $_POST['Nume'];
 $Parola = $_POST['Parola'];
 
-$user = 'root';
-$password = '';
+$user = 'qakzbsotyir5hm083mif';
+$password = 'pscale_pw_Lq2Tga84JuIFbxcl9z5xOLG3B61X27cuBcKL8VzGDvR';
 $db = 'proiect_v1';
 
 $db = new mysqli('localhost', $user, $password, $db);
